@@ -1,5 +1,6 @@
 # Site - Food
 Site criado com animações em CSS3 e JavaScript
+**Em breve haverá um link de acesso.**
 <br>
 ## Principal
 ![Principal](https://user-images.githubusercontent.com/85682890/128907507-da5654ad-70ec-4416-8eef-2bef53e2fc9f.png)
