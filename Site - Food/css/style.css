@@ -347,7 +347,7 @@ section{
         background: url("../imagens/menu.png");
         background-size: 30px;
         background-repeat: no-repeat;
-        background-position: cneter;
+        background-position: center;
         cursor: pointer;
     }
     .menuToggle.active{
